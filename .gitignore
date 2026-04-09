@@ -1,0 +1,22 @@
+# .gitignore
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 数据与模型权重 
+data/
+outputs/
+*.pth
+*.pt
+*.npy
+*.h5
+
+# IDE 与系统文件
+.vscode/
+.idea/
+.DS_Store
+
+# Conda 环境文件
+env/
+venv/

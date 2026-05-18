@@ -20,3 +20,6 @@ outputs/
 # Conda 环境文件
 env/
 venv/
+
+# 数据集
+dataset/
